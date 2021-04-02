@@ -28,5 +28,5 @@ def main(images_folder):
 
 
 if __name__ == '__main__':
-    folder = ''  # Put the path of images folder. Be careful, this script access subdirs.
+    folder = "D:\imagens"
     main(folder)
